@@ -1,0 +1,111 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+.head-logo{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.side-bar{
+  margin-left: -110px;
+  height: 100vh;
+  height: 100dvh; 
+  width: 100%;
+background-color: antiquewhite;}
+.sidebar-profile{
+  border-radius: 50px;
+  border: 2px;
+
+}
+.profile-line{
+  margin-top: -20px;
+ font-size: 4cqw;
+}
+.profile-line-one{
+  margin-bottom: 10px;
+  font-size: 5cqw;
+}
+.sidebar-categories:hover{
+  background-color: rgb(70, 147, 255);
+}
+.sidebar-categories{
+  border-radius: 10px;
+}
+
+.sidebar-item >  .container{
+  container-type: inline-size;
+}
+
+/* .Avtar{
+  width: 70px;
+} */
+.main-sidebar-categoriesmt-5{
+  text-align: left;
+  overflow: auto;
+  scrollbar-width: none;
+  height: 40vh;
+  height: 40svh;
+}
+*{
+scrollbar-width: none;
+}
+.second-grid{
+  background-color: rgb(246, 246, 246);
+  height: 92vh;
+  position: absolute;
+  width: 75%;
+  margin: 0px;
+
+}
+.sub-second-grid{
+  background-color: white;
+  height: 70vh;
+  position: relative;
+  margin-left: 200px;
+  margin-right: 10px;
+  margin-top: -150px;
+}
+.all-btn-dowm{
+  margin: 40px;
+}
+.all-btn{
+  width: 250px;
+  margin-top: 30px;
+  
+}
+.all-stack{
+  margin-top: 30px;
+  margin-left: 790px;
+}
+.all-margin{
+  margin-right: 140px;
+}
+.stack-content{
+  margin-top: 50px;
+ 
+}
+.stack-one:hover{
+  background-color: rgb(157, 213, 255);
+}
+.stack-two:hover{
+  background-color: rgb(157, 213, 255);
+}
+
+.stack-one{
+  border-radius: 10px;
+  margin-left: 10px;
+  width: 180px;
+}
+.stack-two{
+  border-radius: 10px;
+  margin-left: 10px;
+  width: 160px;
+}
+.search-bar-btn{
+  background-color: rgb(67, 95, 255);
+}
+.search-bar-custom{
+  width: 500px;
+  height: 40px;
+  margin-left: 680px;
+  border-radius: 20px;
+}
