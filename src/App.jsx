@@ -195,9 +195,9 @@ function App() {
                       id="dropdown-basic-button"
                       title={<><i className="fa-solid fa-filter ps-2 fs-3 me-1"></i> <span className='fs-3 me-5'>Sort</span> </>}
                     >
-                      <Dropdown.Item href="#/action-1">Action</Dropdown.Item>
-                      <Dropdown.Item href="#/action-2">Another action</Dropdown.Item>
-                      <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
+                      <Dropdown.Item href="#/action-1">Featured</Dropdown.Item>
+                      <Dropdown.Item href="#/action-2">Low to high </Dropdown.Item>
+                      <Dropdown.Item href="#/action-3">High to Low </Dropdown.Item>
                     </DropdownButton>
                   </InputGroup>
                   <Container>
